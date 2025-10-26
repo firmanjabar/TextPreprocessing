@@ -29,7 +29,7 @@ import stanza
 
 # -------------------- CONFIG & THEME --------------------
 st.set_page_config(
-    page_title="Text Processing WebApp",
+    page_title="Text Processing WebApp - Firman Jabar",
     page_icon="🧠",
     layout="wide",
 )
@@ -229,7 +229,7 @@ st.sidebar.markdown(
 )
 
 # -------------------- UI: MAIN --------------------
-st.title("🧠 Text Processing App — FirmanJabar")
+st.title("🧠 Text Processing WebApp")
 st.markdown(
     """
     <div class='card'>
