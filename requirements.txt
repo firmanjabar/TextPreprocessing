@@ -1,0 +1,4 @@
+streamlit>=1.38
+nltk>=3.9
+stanza>=1.8.2
+python-docx>=1.1.2
